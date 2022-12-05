@@ -1,0 +1,6 @@
+(executable
+ (name driver)
+ (package driver)
+ (public_name driver)
+ (modes byte native)
+ (libraries demo_lib findlib.dynload))

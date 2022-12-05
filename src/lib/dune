@@ -1,0 +1,5 @@
+(library
+ (name demo_lib)
+ (public_name demo_lib)
+ (modes byte native)
+ (libraries core))
